@@ -1,4 +1,5 @@
 # learning-github
+
 my practical learning github
 i am using this repository to learn
 github
@@ -7,4 +8,7 @@ commits
 branches
 pull requests
 collaboration
-i am learning how repositories work and how to track changes using github
+i am learning how repositories work and how to track changes using GitHub
+
+i am learning git and github
+
