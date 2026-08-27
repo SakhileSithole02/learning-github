@@ -11,4 +11,5 @@ collaboration
 i am learning how repositories work and how to track changes using GitHub
 
 i am learning git and github
+I ma now learning how to pull changes
 
